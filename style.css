@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h1 {
+    background-color: black;
+    color: azure;
+    text-align: left;
+    padding: 10px;
+  }
+  #cloud {
+    color:aqua
+  }
+
+  h2{
+    background-color: blueviolet;
+    color: azure;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+  }
+
+  h3{
+    background-color: lightskyblue;
+    text-align: right;
+    text-decoration-line: underline;
+    padding: 10px;
+  }
